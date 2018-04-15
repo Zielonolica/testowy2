@@ -3,3 +3,5 @@
 import macierz
 
 macierz.pokazMacierz()
+
+
