@@ -2,7 +2,8 @@
 #import listy
 import macierz
 import matma
-import randomowosc
+#import randomowosc
+import gra
 
 #macierz.pokazMacierz()
 
